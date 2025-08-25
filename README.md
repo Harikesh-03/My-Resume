@@ -32,16 +32,16 @@ Welcome to my GitHub profile! I'm a developer, thinker, and lifelong learner. I 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔗 Project One](https://github.com/Harikesh-03/project-one) | A web app that does XYZ | React, Node.js, MongoDB |
-| [🔗 Project Two](https://github.com/Harikesh-03/project-two) | A Python tool for ABC | Python, Flask, SQLite |
+<!--| [🔗 Project One](https://github.com/Harikesh-03/project-one) | A web app that does XYZ | React, Node.js, MongoDB |-->
+<!-- | [🔗 Project Two](https://github.com/Harikesh-03/project-two) | A Python tool for ABC | Python, Flask, SQLite |-->
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harikesh-singh-a4b292325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://your-portfolio.com)
+<!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://your-portfolio.com)-->
 
 ---
 
